@@ -17,7 +17,7 @@ A simple React-based web application that fetches and displays popular movies us
 bash
 Copy
 Edit
-git clone https://github.com/ratx07/Movies.git
+git clone https://github.com/ShaliniMishra05/Movie_app
 cd Movies
 npm install
 npm start
